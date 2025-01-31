@@ -886,7 +886,7 @@ class FruitScreenState extends State<FruitScreen> {
       calorias: "321",
       proteina: "14,07",
       carboidrato: "69,21",
-      fibra: "4,8",
+      fibra: "4,6",
       gordura: "1,79",
       porcao: "1 xícara cheia de goji berry",
       fruitStats: FruitStats(
@@ -903,7 +903,7 @@ class FruitScreenState extends State<FruitScreen> {
       calorias: "282",
       proteina: "2,45",
       carboidrato: "75,03",
-      fibra: "8",
+      fibra: "7",
       gordura: "0,39",
       porcao: "12 unidades",
       fruitStats: FruitStats(
